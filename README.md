@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lightningfingers
-- 👀 I’m interested in Python3, Machine Learning Algorithms, 
+- 👀 I’m interested in Python3, Machine Learning Algorithms, Computervision & Robotics.
 - 🌱 I’m currently learning Visual Studio .Net Applications
 - 💞️ I’m looking to collaborate on anything and everything :)
 - 📫 How to reach me email jacobmunro17@gmail.com
